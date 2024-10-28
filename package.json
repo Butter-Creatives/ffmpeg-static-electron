@@ -1,5 +1,5 @@
 {
-  "name": "ffmpeg-static-electron",
+  "name": "@davepagurek/ffmpeg-static-electron",
   "version": "2.0.3",
   "description": "ffmpeg static binaries for Mac OSX and Linux and Windows",
   "main": "index.js",
@@ -25,7 +25,7 @@
   "author": "Pietro Passarelli <pietro.passarelli@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/eugeneware/ffmpeg-static/issues"
+    "url": "https://github.com/Butter-Creatives/ffmpeg-static/issues"
   },
   "dependencies": {},
   "devDependencies": {
